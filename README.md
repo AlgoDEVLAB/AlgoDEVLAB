@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlgoDEVLAB
 - 👀 I’m interested in Frontend website development 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on any website development project 
 - 📫 How to reach me 07034699153 WhatsApp 
 
